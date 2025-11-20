@@ -5,5 +5,7 @@
 <br><br>
 ☕️ I am focusing on Frontend Development particularly on HTML, CSS and Javascript.
 <br><br>
-📍 Practicing Git, GitHub and Figma.<br>🎨 I do digital art! Primarily Pixel art and Semi-realism.
+📍 Practicing Git, GitHub and Figma.
+<br><br>
+🎨 I do digital art! Primarily Pixel art and Semi-realism.
 <br><br>
