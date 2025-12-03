@@ -2,16 +2,15 @@
 
 ### 🎓 BS Information Technology  
 **University of Saint Louis**
+- I'm an aspiring **Front-End Developer** with a passion for building web app and games.
 
 ---
 
-## 💡 About Me  
-I'm an aspiring **Front-End Developer** with a passion for building web app and games.
-
-- 🌐 I can build **static websites** using **HTML, CSS and Javascript**  
-- 🎨 I’m also an **artist** — I create **pixel art** and **3d art**
-- 🔧 Currently learning **JavaScript** and **Python**   
-- 🧊 Practicing **Blender** for 3D design  
+## 🧑🏻‍💻 Tech Stack
+- HTML
+- CSS
+- Javascript
+- Tailwind CSS
 
 ---
 
